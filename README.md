@@ -34,7 +34,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am currently a Computer Engineerig and Computer Science Undergateduate at USC, FIght On!<img src="https://media.giphy.com/media/ByvFuxQhlniu77HjiK/giphy.gif" width="30">. I am a passionate learner when it comes to anything about tech; so please reach out to me if there is anything you want to ask or just talk about! 
+I am currently a Computer Engineerig and Computer Science Undergateduate at USC, FIght On!<img src="https://media.giphy.com/media/ByvFuxQhlniu77HjiK/giphy.gif" width="30">. I am now working as a embedded software developer at USC Rocket Propulsion Lab and I am a passionate learner when it comes to anything about tech; so please reach out to me if there is anything you want to ask or just talk about! 
 In my personal capacity, I love to do hackathons, or just projects in general for fun!
 
 - :thought_balloon:Pronounce: she/her/hers
